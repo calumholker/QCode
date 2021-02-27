@@ -1,11 +1,8 @@
-# QCode
-A repo for Qiskit coding
+# Learning Qiskit
+A repo documenting my learning of Qiskit SDK
 
-## QCode
-A folder for Qiskit concepts and testing
+## Algorithms/
+Contains implementations of some quantum algorithms
 
-## Qiskit Labs
-A folder for the labs for IBM's Introduction to Quantum Computing and Quantum Hardware course
-
-## Quantum Challenge 2020
-A folder for IBM's Quantum Challenge 2020
+## Presentation/
+Contains a presentation produced on quantum teleportation
